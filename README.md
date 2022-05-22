@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/wescleygarrett/"><i>Wescley Garrett</i></a> 😃️</h1>
+  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/wescley-garrett/"><i>Wescley Garrett</i></a> 😃️</h1>
   <p align="center">Estudo Engenharia de Software na <a href="https://www.anhanguera.com/"><i>Anhanguera</i></a><span> 👉🏽️</span>
   </a>
 </div>
@@ -21,7 +21,7 @@
 
 <br>
 <div align="center">
-  <a href="https://www.linkedin.com/in/wescleygarrett/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/wescley-garrett/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:wescleycco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
