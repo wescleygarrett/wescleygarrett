@@ -1,4 +1,4 @@
-<h1> Hi! My name is Wescley. </h1>
+<h1> Hi! My name is Ellen. </h1>
 
 <div>
   <a href="https://github.com/wescleygarrett">
@@ -20,10 +20,8 @@
  
     
 </div>
-  <br>  <a href="https://www.linkedin.com/in/wescley-garrett/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <br><a href="https://www.linkedin.com/in/wescleygarrett/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/wescleygarrett/wescleygarrett/blob/output/github-contribution-grid-snake.svg)
  
 </div>
- 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=wescleygarrett&repo=wescleygarrett&theme=react)](https://github.com/wescleygarrett/wescleygarrett)
