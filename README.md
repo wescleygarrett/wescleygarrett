@@ -25,3 +25,5 @@
   ![Snake animation](https://github.com/wescleygarrett/wescleygarrett/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=wescleygarrett&repo=wescleygarrett&theme=react)](https://github.com/wescleygarrett/wescleygarrett)
